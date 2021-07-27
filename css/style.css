@@ -1,0 +1,43 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: olive;
+    font-size: 24px;
+}
+
+.quem-somos {
+    background-color: royalblue;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: teal;
+}
+
+.servicos {
+    background-color: cornflowerblue
+}
+
+.container {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkmagenta;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+
+/*section {
+    margin-top: 5px;
+}
+*/
